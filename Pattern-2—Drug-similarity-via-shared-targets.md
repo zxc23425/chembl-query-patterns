@@ -32,7 +32,7 @@ LIMIT 10
 
 ### Why it’s useful
 
-Identifies compounds that act on similar biological targets, which can suggest shared mechanisms or potential alternatives.
+Identifies compounds that act on similar biological targets, which can  suggest overlapping target profiles or potential alternatives.
 
 ### How it can be extended
 

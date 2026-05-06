@@ -2,7 +2,6 @@
 
 ---
 
-````markdown
 # ChEMBL Query Patterns (Graph-Based)
 
 This repository contains a small set of query patterns exploring how multi-hop relationships in ChEMBL-like data can be expressed and extended more directly.
@@ -44,7 +43,6 @@ RETURN gene1, gene2, shared_drugs
 ORDER BY shared_drugs DESC
 LIMIT 10
 ```
-````
 
 ### Example result
 
